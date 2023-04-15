@@ -1,0 +1,9 @@
+h1{
+  display: flex;
+  justify-content: center;
+  margin-top: 10rem;
+  box-shadow: 10px 0px 10px 0px grey;
+}
+h1:hover{
+  font-family: 'Courier New', Courier, monospace;
+}

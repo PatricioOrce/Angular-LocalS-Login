@@ -1,4 +1,4 @@
-export class Usuario {
-  nombre: string;
-  clave: string;
+export class User {
+  nombre = '';
+  clave = '';
 }
